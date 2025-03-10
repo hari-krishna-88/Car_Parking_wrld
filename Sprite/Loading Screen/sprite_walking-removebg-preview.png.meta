@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 2aabfbb3dfee24146a7ca31ee1a1fb28
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 154.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebce315cae681774bac5d644bd47d8a4
+      internalID: 802602320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 154.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc786cc42ab6cf24fb3fd7e20891852f
+      internalID: 621313982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 154.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df27266dd2e8b064499721cd8de2a50a
+      internalID: 1325806952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 154.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06aba6d81dd38d4da34e3c28cca91ac
+      internalID: 1733787963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 154.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a08697789c451e4cb29caffaea26ea8
+      internalID: -787629788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 154.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea8aee7e5b84fc419431b8529177e39
+      internalID: 588358803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 154.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612ce9e00e8205f40a4ef01a35073b29
+      internalID: -1863912995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 154.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0fa230858cd1645a4078e67aa891f4
+      internalID: -2031863745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 154.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29508fe7012071342b166be364a0b1a9
+      internalID: -2089558074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406ee60eabf4d9246ae4128ab915d0fb
+      internalID: 1147789771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da47095973ee8d844b5525cd2da3c893
+      internalID: -2052224136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4380a1d0f4da14f96778d2e549eb76
+      internalID: -580648520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbf687cde93c9340aa0bd1a0f8ad400
+      internalID: -77906894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8390ff613344b46b93aace3da86de7
+      internalID: 8155560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f54857b1a8b0ee439c5901ff2a69325
+      internalID: 844207654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21507671f16c61c4fb8fe000ad7b9d0b
+      internalID: 1317019180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 0.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b366bad70444b4eb0bd46091c4eae9
+      internalID: -886093873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_walking-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 0.5
+        width: 68.888885
+        height: 154.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86265b7057f508c4a8373760d3d9dbb0
+      internalID: -1922246838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 32bd9b4279e4703488fdb816533d6ee4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprite_walking-removebg-preview_0: 802602320
+      sprite_walking-removebg-preview_1: 621313982
+      sprite_walking-removebg-preview_10: -2052224136
+      sprite_walking-removebg-preview_11: -580648520
+      sprite_walking-removebg-preview_12: -77906894
+      sprite_walking-removebg-preview_13: 8155560
+      sprite_walking-removebg-preview_14: 844207654
+      sprite_walking-removebg-preview_15: 1317019180
+      sprite_walking-removebg-preview_16: -886093873
+      sprite_walking-removebg-preview_17: -1922246838
+      sprite_walking-removebg-preview_2: 1325806952
+      sprite_walking-removebg-preview_3: 1733787963
+      sprite_walking-removebg-preview_4: -787629788
+      sprite_walking-removebg-preview_5: 588358803
+      sprite_walking-removebg-preview_6: -1863912995
+      sprite_walking-removebg-preview_7: -2031863745
+      sprite_walking-removebg-preview_8: -2089558074
+      sprite_walking-removebg-preview_9: 1147789771
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
